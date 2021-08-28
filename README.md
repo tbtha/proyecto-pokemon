@@ -52,5 +52,5 @@ Programadores | Teruki Murakawa <br> Kohta Fukui
 Diseño del mapa | Kenji Matsushima
 
 ***
-### FIN :sparkles: :sparkles: :sparkles:  :metal:
+### FIN :sparkles: :sparkles: :sparkles:  :metal: :metal:
 ***
